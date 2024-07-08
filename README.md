@@ -33,4 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvaj1302&show_icons=true&locale=en" alt="atharvaj1302" /></p>
 
+<img src="https://raw.githubusercontent.com/AtharvaJ1302/AtharvaJ1302/output/snake.svg" alt="Snake animation" />
 
+###
