@@ -35,4 +35,3 @@
 
 <img src="https://raw.githubusercontent.com/AtharvaJ1302/AtharvaJ1302/output/snake.svg" alt="Snake animation" />
 
-###
