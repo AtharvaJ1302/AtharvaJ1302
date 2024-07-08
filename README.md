@@ -1,5 +1,7 @@
+![Header](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 <h1 align="center">Hi 👋, I'm Atharva Joshi</h1>
 <h3 align="center">A passionate Java developer from India, who also has a keen interest in building frontend UI and developing user-friendly apps.</h3>
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
