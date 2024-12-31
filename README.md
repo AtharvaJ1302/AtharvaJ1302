@@ -93,11 +93,6 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=AtharvaJ1302
 
    <br>
 
-   <h2 align="center">My contribution Streak 🔥</h2>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaJ1302&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
- </p>
-<br>
 
 
  <h2 align="center">Frequently used Language 📺</h2>
